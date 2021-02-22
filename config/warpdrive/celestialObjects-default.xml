@@ -89,11 +89,11 @@
 		  skybox.fogFactor is the fog opacity depending on local Sun position. Space and hyperspace have no Sun, hence it's a fixed value.
 		  -->
 		<skybox>
-			<backgroundColor red="1.0" green="0.0" blue="0.0" />
+			<backgroundColor red="0.0" green="0.5" blue="1.0" />
 			<starBrightnessBase>0.2</starBrightnessBase>
 			<starBrightnessVanilla>0.0</starBrightnessVanilla>
 			<celestialObjectOpacity>0.3</celestialObjectOpacity>
-			<fogColor red="0.15" green="0.0" blue="0.0" />
+			<fogColor red="0.0" green="0.0" blue="0.15" />
 			<fogFactor red="0.0" green="0.0" blue="0.0" />
 		</skybox>
 		
